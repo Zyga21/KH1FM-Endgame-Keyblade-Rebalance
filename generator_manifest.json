@@ -1,0 +1,246 @@
+{
+  "generatorVersion": "1.1.8",
+  "modName": "Endgame Keyblades",
+  "author": "Jenny",
+  "generatedAt": "2026-09-29T13:09:44-06:00",
+  "replacements": [
+    {
+      "TargetId": "kingdom_key",
+      "SourceId": "kingdom_key",
+      "MatchLength": true,
+      "CustomStats": true,
+      "Stats": {
+        "Strength": 10,
+        "MP": 0,
+        "CritRateRaw": 20,
+        "CritBonus": 5,
+        "Recoil": 90,
+        "Reach": -3.7
+      }
+    },
+    {
+      "TargetId": "jungle_king",
+      "SourceId": "jungle_king",
+      "MatchLength": true,
+      "CustomStats": true,
+      "Stats": {
+        "Strength": 18,
+        "MP": 0,
+        "CritRateRaw": 10,
+        "CritBonus": 0,
+        "Recoil": 1,
+        "Reach": -4.4
+      }
+    },
+    {
+      "TargetId": "three_wishes",
+      "SourceId": "three_wishes",
+      "MatchLength": true,
+      "CustomStats": true,
+      "Stats": {
+        "Strength": 10,
+        "MP": 0,
+        "CritRateRaw": 10,
+        "CritBonus": 7,
+        "Recoil": 90,
+        "Reach": -3.8
+      }
+    },
+    {
+      "TargetId": "crabclaw",
+      "SourceId": "crabclaw",
+      "MatchLength": true,
+      "CustomStats": true,
+      "Stats": {
+        "Strength": 10,
+        "MP": 1,
+        "CritRateRaw": 20,
+        "CritBonus": 0,
+        "Recoil": 90,
+        "Reach": -3.9
+      }
+    },
+    {
+      "TargetId": "pumpkinhead",
+      "SourceId": "pumpkinhead",
+      "MatchLength": true,
+      "CustomStats": true,
+      "Stats": {
+        "Strength": 10,
+        "MP": 0,
+        "CritRateRaw": 80,
+        "CritBonus": 1,
+        "Recoil": 1,
+        "Reach": -4.6
+      }
+    },
+    {
+      "TargetId": "fairy_harp",
+      "SourceId": "fairy_harp",
+      "MatchLength": true,
+      "CustomStats": true,
+      "Stats": {
+        "Strength": 10,
+        "MP": 1,
+        "CritRateRaw": 10,
+        "CritBonus": 7,
+        "Recoil": 30,
+        "Reach": -3.3
+      }
+    },
+    {
+      "TargetId": "wishing_star",
+      "SourceId": "wishing_star",
+      "MatchLength": true,
+      "CustomStats": true,
+      "Stats": {
+        "Strength": 7,
+        "MP": 0,
+        "CritRateRaw": 200,
+        "CritBonus": 7,
+        "Recoil": 1,
+        "Reach": -3.3
+      }
+    },
+    {
+      "TargetId": "spellbinder",
+      "SourceId": "spellbinder",
+      "MatchLength": true,
+      "CustomStats": true,
+      "Stats": {
+        "Strength": 10,
+        "MP": 2,
+        "CritRateRaw": 2,
+        "CritBonus": 0,
+        "Recoil": 90,
+        "Reach": -3.7
+      }
+    },
+    {
+      "TargetId": "metal_chocobo",
+      "SourceId": "metal_chocobo",
+      "MatchLength": true,
+      "CustomStats": true,
+      "Stats": {
+        "Strength": 20,
+        "MP": -1,
+        "CritRateRaw": 2,
+        "CritBonus": 0,
+        "Recoil": 90,
+        "Reach": -5.1
+      }
+    },
+    {
+      "TargetId": "olympia",
+      "SourceId": "olympia",
+      "MatchLength": true,
+      "CustomStats": true,
+      "Stats": {
+        "Strength": 13,
+        "MP": 0,
+        "CritRateRaw": 20,
+        "CritBonus": 2,
+        "Recoil": 90,
+        "Reach": -3.5
+      }
+    },
+    {
+      "TargetId": "lionheart",
+      "SourceId": "lionheart",
+      "MatchLength": true,
+      "CustomStats": true,
+      "Stats": {
+        "Strength": 8,
+        "MP": 1,
+        "CritRateRaw": 10,
+        "CritBonus": 8,
+        "Recoil": 30,
+        "Reach": -4.6
+      }
+    },
+    {
+      "TargetId": "lady_luck",
+      "SourceId": "lady_luck",
+      "MatchLength": true,
+      "CustomStats": true,
+      "Stats": {
+        "Strength": 7,
+        "MP": 2,
+        "CritRateRaw": 200,
+        "CritBonus": 7,
+        "Recoil": 1,
+        "Reach": -3.7
+      }
+    },
+    {
+      "TargetId": "divine_rose",
+      "SourceId": "divine_rose",
+      "MatchLength": true,
+      "CustomStats": true,
+      "Stats": {
+        "Strength": 10,
+        "MP": 0,
+        "CritRateRaw": 80,
+        "CritBonus": 1,
+        "Recoil": 60,
+        "Reach": -3.3
+      }
+    },
+    {
+      "TargetId": "oathkeeper",
+      "SourceId": "oathkeeper",
+      "MatchLength": true,
+      "CustomStats": true,
+      "Stats": {
+        "Strength": 10,
+        "MP": 1,
+        "CritRateRaw": 200,
+        "CritBonus": 0,
+        "Recoil": 1,
+        "Reach": -3.8
+      }
+    },
+    {
+      "TargetId": "oblivion",
+      "SourceId": "oblivion",
+      "MatchLength": true,
+      "CustomStats": true,
+      "Stats": {
+        "Strength": 20,
+        "MP": -1,
+        "CritRateRaw": 20,
+        "CritBonus": 2,
+        "Recoil": 1,
+        "Reach": -4.9
+      }
+    },
+    {
+      "TargetId": "one_winged_angel",
+      "SourceId": "one_winged_angel",
+      "MatchLength": true,
+      "CustomStats": true,
+      "Stats": {
+        "Strength": 21,
+        "MP": -2,
+        "CritRateRaw": 10,
+        "CritBonus": 16,
+        "Recoil": 90,
+        "Reach": -5.2
+      }
+    },
+    {
+      "TargetId": "ultima_weapon",
+      "SourceId": "ultima_weapon",
+      "MatchLength": true,
+      "CustomStats": true,
+      "Stats": {
+        "Strength": 13,
+        "MP": 2,
+        "CritRateRaw": 20,
+        "CritBonus": 0,
+        "Recoil": 1,
+        "Reach": -5.6
+      }
+    }
+  ]
+}
