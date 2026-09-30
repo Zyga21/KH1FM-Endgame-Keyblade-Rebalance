@@ -28,10 +28,9 @@ assets:
   source:
   - name: icon.png
 
-  # Combined gameplay-data edits
-  - method: copy
-    name: btltbl.bin
-    package: kh1_first
-    source:
-      - name: files/btltbl.bin
-
+# Combined gameplay-data edits
+- name: btltbl.bin
+  method: copy
+  package: kh1_first
+  source:
+    - name: files/btltbl.bin
